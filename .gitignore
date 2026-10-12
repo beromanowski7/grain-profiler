@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.xlsx
+*.xls
+*.csv
+*.parquet
+*.duckdb
+*.db
+.env
+.DS_Store
